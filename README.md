@@ -10,6 +10,12 @@ Grapevine is an intelligent career assistance application that helps users find 
 - **Skill Quizzes**: Test your knowledge and improve your skills
 - **Career News**: Stay updated with industry trends and job market insights
 
+## Design Flow
+
+The following diagram shows the architecture and flow of the Grapevine application:
+
+![Grapevine Chatbot Architecture](GRAPEVINE_CHATBOT.drawio.png)
+
 ## Setup Instructions
 
 ### Prerequisites
