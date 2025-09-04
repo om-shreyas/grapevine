@@ -37,9 +37,10 @@ Grapevine is an intelligent career assistance application that helps users find 
    ```
 
 4. **Set up environment variables**
-   Create a `.env` file in the project root with your OpenAI API key:
+   Create a `.env` file in the project root with your API keys:
    ```
-   OPENAI_API_KEY=your_openai_api_key_here
+   PERPLEXITY_API_KEY="<key>"
+   OPENAI_API_KEY="<key>"
    ```
 
 5. **Create data directories**
