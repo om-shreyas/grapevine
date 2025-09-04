@@ -27,7 +27,7 @@ The following diagram shows the architecture and flow of the Grapevine applicati
 
 1. **Clone or download the project**
    ```bash
-   
+   git clone https://github.com/om-shreyas/grapevine.git
    cd "grapevine"
    ```
 
