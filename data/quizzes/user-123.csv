@@ -1,0 +1,16 @@
+question_text,timestamp
+Can you explain the difference between L1 and L2 regularization in deep learning and when you might prefer one over the other?,2025-09-04T17:14:56.776883
+Describe how attention mechanisms work in transformer models and why they have become important in deep learning.,2025-09-04T17:14:56.776883
+What are the main challenges when training deep reinforcement learning models compared to supervised deep learning models?,2025-09-04T17:14:56.776883
+How would you approach tuning hyperparameters for a convolutional neural network to improve its performance on image classification?,2025-09-04T17:14:56.776883
+Explain the concept of transfer learning and provide an example of how it can be applied in a deep learning project.,2025-09-04T17:14:56.776883
+"What are some common post-hoc interpretability techniques for deep learning models, and how do they help explain model predictions?",2025-09-04T17:16:50.138923
+Can you discuss the role of visualization-based interpretability methods in deep learning and give examples of such methods?,2025-09-04T17:16:50.138923
+"How do model-agnostic interpretability methods like LIME and SHAP differ, and what are their respective advantages and limitations?",2025-09-04T17:16:50.138923
+Explain the concept of Partial Dependence Plots (PDPs) and how they can be used to understand feature effects in complex models.,2025-09-04T17:16:50.138923
+"What challenges arise in achieving interpretability for deep learning models compared to traditional machine learning models, and how can these challenges be addressed?",2025-09-04T17:16:50.138923
+How do you decide whether to use a feedforward neural network or a recurrent neural network for a given problem?,2025-09-04T17:18:13.301323
+Can you describe the process and importance of backpropagation in training deep neural networks?,2025-09-04T17:18:13.301323
+What strategies would you use to handle imbalanced datasets in deep learning projects?,2025-09-04T17:18:13.301323
+"Explain the differences between epoch, batch, and iteration in the context of training deep learning models.",2025-09-04T17:18:13.301323
+How do you evaluate whether deep learning is the appropriate approach compared to traditional machine learning methods for a specific task?,2025-09-04T17:18:13.301323

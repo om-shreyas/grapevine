@@ -1,0 +1,6 @@
+job_id,job_title,company,job_link,description,requirements,location,salary,posting_date
+job1,Software Engineer,TechCorp,https://techcorp.com/jobs/1,Build scalable web applications using React and Node.js,JavaScript React Node.js 3+ years experience,San Francisco,120000-150000,2024-01-15
+job2,Data Scientist,DataInc,https://datainc.com/careers/2,Analyze large datasets and build ML models,Python SQL Machine Learning PhD preferred,Remote,130000-160000,2024-01-16
+job3,ML Engineer,AIStartup,https://aistartup.com/jobs/3,Deploy ML models in production environments,Python TensorFlow AWS 2+ years experience,New York,110000-140000,2024-01-17
+job4,Frontend Developer,WebCo,https://webco.com/careers/4,Create responsive user interfaces,HTML CSS JavaScript React,Austin,90000-120000,2024-01-18
+job5,Backend Engineer,ServerTech,https://servertech.com/jobs/5,Design and maintain APIs and databases,Java Spring Boot PostgreSQL,Seattle,100000-130000,2024-01-19

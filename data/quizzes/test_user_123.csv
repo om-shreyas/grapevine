@@ -1,0 +1,26 @@
+question_text,timestamp
+"Can you describe your approach to building and scaling modular APIs for event insights engines, such as your work on Drishti, and how you ensured seamless performance for millions of users?",2025-09-04T17:31:01.716507
+Explain how you integrated LangGraph and multiple data ingestors to develop an agentic chatbot that outperformed state-of-the-art tools in statistical query resolution.,2025-09-04T17:31:01.716507
+Discuss the techniques and models you used to achieve 98-99% accuracy in real-time NLP datasets during your AI Automation internship at Adobe.,2025-09-04T17:31:01.716507
+How did you leverage reinforcement learning and time series analysis in your Stock Market Predictor project to improve forecast accuracy and trade execution profitability?,2025-09-04T17:31:01.716507
+What strategies did you employ to automate the ingestion and prediction of trending topics from large-scale article datasets with over 90% accuracy?,2025-09-04T17:31:01.716507
+"Can you explain your methodology for constructing and validating time-series forecasting models, such as the trader forecasting model with 11% MAPE you developed?",2025-09-04T17:31:25.369917
+Describe how you approached building and deploying fraud detection workflows to identify unfair event advantages and recover misused funds.,2025-09-04T17:31:25.369917
+"How did you leverage knowledge graphs and graph neural networks in your published research, and how might these techniques apply to deep learning projects?",2025-09-04T17:31:25.369917
+What techniques did you use to optimize and accelerate stock data analysis from minutes to milliseconds in your Stock Market Predictor project?,2025-09-04T17:31:25.369917
+Discuss your experience with reinforcement learning in automated trading bots and the challenges you faced in achieving profitable trade execution.,2025-09-04T17:31:25.369917
+"Can you explain the architecture and key components of the agentic chatbot you built using LangGraph, and how it outperformed state-of-the-art tools like Perplexity?",2025-09-04T17:43:32.823090
+Describe your approach to designing the AskProbo trend detection system for tweets and events. How did you ensure its scalability and accuracy in auto-answering queries?,2025-09-04T17:43:32.823090
+"How did you implement caching-aware modular APIs in the Drishti event insights engine, and what role did distributed message queues play in scaling it to millions of users?",2025-09-04T17:43:32.823090
+Walk me through the development and evaluation of your time-series trader forecasting model. How did you achieve an 11% MAPE and ensure bounded daily predictions?,2025-09-04T17:43:32.823090
+"In your fraud detection workflows, what data features and machine learning techniques did you use to identify unfair event advantages and recover misused funds?",2025-09-04T17:43:32.823090
+Can you explain how you designed and implemented the agentic chatbot with multiple data ingestors and how it outperformed state-of-the-art tools?,2025-09-04T17:53:01.976057
+"Describe the architecture and key components of the event insights engine 'Drishti' you developed, particularly how caching-aware modular APIs and distributed message queues contributed to its scalability.",2025-09-04T17:53:01.976057
+"How did you approach building the time-series trader forecasting model, and what techniques did you use to achieve a MAPE of 11%?",2025-09-04T17:53:01.976057
+"What methods did you use to automate the event creation pipeline that ingests over 4,000 articles per day and achieves 90%+ accuracy in predicting trending topics?",2025-09-04T17:53:01.976057
+"Discuss your experience with deploying advanced NLP models in real-time settings, including challenges faced and how you achieved 98-99% accuracy during your internship at Adobe.",2025-09-04T17:53:01.976057
+Can you describe the approach and technologies you used to build the fraud detection workflows that recovered approximately ₹1Cr in misused funds?,2025-09-04T17:53:43.137008
+How did you leverage reinforcement learning in your Stock Market Predictor and Trading Bot project to achieve 98.2% accuracy in stock price forecasting?,2025-09-04T17:53:43.137008
+Explain the process and challenges you faced while constructing the proprietary dataset of 800+ industrial structure images and how it improved your ML and image processing models.,2025-09-04T17:53:43.137008
+What strategies did you implement to optimize the service desk quality audits and triage processes during your internship at Adobe to reduce manual effort by 90%?,2025-09-04T17:53:43.137008
+How do you ensure the scalability and reliability of analytics pipelines when uncovering dormant user funds and enabling targeted user resurrection?,2025-09-04T17:53:43.137008

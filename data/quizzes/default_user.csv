@@ -1,0 +1,6 @@
+question_text,timestamp
+Can you explain the concept of transfer learning in deep learning and describe a scenario where it would be beneficial?,2025-09-04T17:11:35.887271
+"How do attention mechanisms work in neural networks, and what advantages do they provide in sequence modeling tasks?",2025-09-04T17:11:35.887271
+"What are Generative Adversarial Networks (GANs), and how do the generator and discriminator components interact during training?",2025-09-04T17:11:35.887271
+Describe the differences between LSTM and GRU units in recurrent neural networks and when you might choose one over the other.,2025-09-04T17:11:35.887271
+How would you approach tuning hyperparameters in a deep learning model to improve its generalization performance?,2025-09-04T17:11:35.887271
